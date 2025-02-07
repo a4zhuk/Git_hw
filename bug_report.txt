@@ -1,1 +1,5 @@
-
+Summary
+Priority
+Steps to reproduce
+AR
+ER
